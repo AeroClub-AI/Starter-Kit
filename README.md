@@ -85,7 +85,7 @@ python main.py
 ---
 
 ## 🤝 Join the Community / به جامعه بپیوندید
-This kit is led by **@PouyaLatifiyan** (AI & Space Systems Researcher).  
+This kit is led by **[@PouyaLatifiyan](https://github.com/PouyaLatifiyan)** (AI & Space Systems Researcher).  
 ✅ Open to co-maintainers, reviewers, and student contributors from all Iranian universities.  
 📩 Have a project? Want to fix a bug? Need mentorship?  
 👉 **Fork → Build → Submit a Pull Request** or drop an issue with `#help` or `#project`.
