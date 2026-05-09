@@ -1,4 +1,3 @@
-```markdown
 # 🛰️ AeroClub-AI Starter-Kit | کیت شروع پروژه‌های هوافضا و هوش مصنوعی
 
 ![Version](https://img.shields.io/badge/version-v0.1.0--alpha-blue.svg)
