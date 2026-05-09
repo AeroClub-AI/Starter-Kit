@@ -1,4 +1,3 @@
-```markdown
 # 🚀 [Project Title] | [عنوان پروژه به فارسی]
 
 ![Status](https://img.shields.io/badge/status-beta-yellow.svg)
