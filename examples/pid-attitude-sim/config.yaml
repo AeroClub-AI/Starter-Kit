@@ -1,0 +1,21 @@
+physics:
+  inertia: 0.05        # kg*m^2
+  damping: 0.01        # N*m*s/rad
+  max_torque: 0.15     # N*m (actuator saturation limit)
+
+pid:
+  Kp: 1.2
+  Ki: 0.15
+  Kd: 0.45
+
+simulation:
+  duration: 15.0       # seconds
+  dt: 0.01             # seconds
+  initial_angle: 0.8   # radians (~45 deg offset)
+  initial_rate: 0.0    # rad/s
+  setpoint: 0.0        # radians (hold position)
+
+output:
+  dir: output/
+  data_file: attitude_data.csv
+  plot_file: pid_response.png

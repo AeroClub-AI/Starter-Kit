@@ -1,0 +1,16 @@
+# Orbital Parameters (J2000 ECI, SI units)
+orbit:
+  semi_major_axis: 6871000.0  # meters (~500 km altitude)
+  eccentricity: 0.001
+  inclination: 98.6           # degrees (Sun-synchronous)
+  raan: 45.0                  # degrees
+  arg_perigee: 90.0           # degrees
+  mean_anomaly: 0.0           # degrees
+
+simulation:
+  duration: 5400              # seconds (1.5 orbits)
+  step: 60                    # seconds
+
+constants:
+  mu_earth: 3.986004418e14    # m^3/s^2
+  r_earth: 6371000.0          # meters
