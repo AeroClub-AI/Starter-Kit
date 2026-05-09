@@ -76,7 +76,7 @@ Thank you for wanting to contribute! This repository is built by students, for s
 
 ## 💬 Communication / ارتباط و پشتیبانی
 - برای سوال، پیشنهاد یا گزارش باگ: یه `Issue` باز کن و از تگ‌های `#help`, `#bug`, `#project`, `#idea` استفاده کن.
-- برای منتورینگ، بررسی کد یا همکاری بلندمدت: مستقیماً به [@PouyaLatifiyan](https://github.com/PouyaLatifiyan) پیام بده یا ایمیل بزن.
+- برای منتورینگ، بررسی کد یا همکاری بلندمدت: مستقیماً به [@PouyaLatifiyan](https://github.com/PouyaLatifiyan) پیام بده یا ایمیل بزن به Shahin.acnn@gmail.com یا Pouya@buaa.edu.cn.
 - 🌟 *ما اینجاییم تا یاد بگیریم، نه قضاوت کنیم. سوال پرسیدن بخشی از فرآینده، نه نقطه ضعف.*
 
 ---
