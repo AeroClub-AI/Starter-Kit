@@ -92,10 +92,8 @@ This kit is led by **@PouyaLatifiyan** (AI & Space Systems Researcher).
 
 > 🌟 *"آزادی علمی با کد شروع می‌شه. پروژه‌ات رو اینجا بذار، با هم رشدش می‌دیم."*  
 > *"Academic freedom starts with code. Share your project, we'll grow it together."*
-
 ---
 
 ## 📜 License / لایسنس
 This project is licensed under the [MIT License](LICENSE).  
 You're free to use, modify, and distribute — just keep the attribution and share improvements back to the community.
----
