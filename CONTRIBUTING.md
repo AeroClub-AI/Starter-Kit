@@ -85,8 +85,5 @@ Thank you for wanting to contribute! This repository is built by students, for s
   <sub>Every line of code is a step forward. Let's build it together. 🛰️✨</sub>
 </p>
 ```
-
-### ✅ نکات نهایی:
-- این فایل رو دقیقاً با نام `CONTRIBUTING.md` توی ریشه‌ی ریپازیتوری ذخیره کن. گیت‌هاب به صورت خودکار لینکش رو کنار دکمه‌ی `Issues` و `Pull Requests` نمایش می‌ده.
-- اگر خواستی `docs/offline-git-guide.md` یا `templates/PROJECT_README.md` رو هم آماده‌ی کپی‌پیست برات بفرستم، فقط کافیه بگی.  
+e.md` یا `templates/PROJECT_README.md` رو هم آماده‌ی کپی‌پیست برات بفرستم، فقط کافیه بگی.  
 آماده‌ی قدم بعدی هستی؟ 🚀
