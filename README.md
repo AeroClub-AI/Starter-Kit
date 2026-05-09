@@ -98,12 +98,4 @@ This kit is led by **@PouyaLatifiyan** (AI & Space Systems Researcher).
 ## 📜 License / لایسنس
 This project is licensed under the [MIT License](LICENSE).  
 You're free to use, modify, and distribute — just keep the attribution and share improvements back to the community.
-
 ---
-<p align="center">
-  <sub>Built with ☕️ & 🛰️ by Iranian Aerospace & AI Students | Powered by Open Source</sub>
-</p>
-```
-تمام! حالا کاربر با یه نگاه می‌فهمه **«از کجا شروع کنه»** و **«کجا کلیک کنه»**. 🎯
-
-قدم بعدی: می‌خوای `templates/PROJECT_README.md` رو آماده کنم؟ یا بریم سراغ ساخت اولین مثال (`orbit-prediction`)؟ 🚀
