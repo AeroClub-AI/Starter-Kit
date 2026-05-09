@@ -84,6 +84,4 @@ Thank you for wanting to contribute! This repository is built by students, for s
 <p align="center">
   <sub>Every line of code is a step forward. Let's build it together. 🛰️✨</sub>
 </p>
-```
-e.md` یا `templates/PROJECT_README.md` رو هم آماده‌ی کپی‌پیست برات بفرستم، فقط کافیه بگی.  
-آماده‌ی قدم بعدی هستی؟ 🚀
+``` 
