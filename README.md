@@ -21,7 +21,7 @@ Welcome to **Aerospace IR Starter-Kit** — an open-source, student-driven colle
 ## 🚀 Quick Start / شروع سریع
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/Aerospace-IR/Starter-Kit.git](https://github.com/AeroClub-AI/Starter-Kit.git)
+git clone https://github.com/Aerospace-IR/Starter-Kit.git
 cd Starter-Kit
 
 # 2. Check example requirements (Python example)
